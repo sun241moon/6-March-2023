@@ -1,0 +1,35 @@
+1 - Overview.png
+2 - Part A.png
+3 - Part B.png
+4 - Part C.png
+
+These 4 files are the project instructions
+
+----- ----- ----- ----- -----
+
+"Course 6 Project Stub - Scribbler.zip"
+
+This ZIP file is the project file thats provided by the institute which has the incomplete code and it needs to be completed.
+(You can find it in the "Overview.png" and at the very bottom. It says "Download")
+
+----- ----- ----- ----- -----
+
+"My Scribbler.rar"
+
+This is the same "Course 6 Project Stub - Scribbler.zip" file.
+But its fully edited and its 90% complete.
+
+Only the "X Button" for closing a window and the "Delete" button is not showing.
+
+{@KAUSHIK = THATS WHERE I NEED YOUR HELP}
+
+----- ----- ----- ----- -----
+
+https://naresh-scribbler.netlify.app/
+
+In this link above, you have the complete APK already completed by someone.
+
+And i just downloaded the entire project from this link and made a few changes to it and i created the above "My Scribbler.rar" with it
+
+----- ----- ----- ----- -----
+
